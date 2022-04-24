@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @avocado-root
+- 👀 I’m interested in creating software.
